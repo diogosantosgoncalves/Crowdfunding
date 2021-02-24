@@ -3666,10 +3666,7 @@
         },
         "runtime": {
           "bin/placeholder/Vaquinha.Domain.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "Vaquinha.Repository/1.0.0": {
         "type": "project",
@@ -3688,10 +3685,7 @@
         },
         "runtime": {
           "bin/placeholder/Vaquinha.Repository.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "Vaquinha.Service/1.0.0": {
         "type": "project",
@@ -3712,10 +3706,7 @@
         },
         "runtime": {
           "bin/placeholder/Vaquinha.Service.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -10989,25 +10980,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vitor\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
       "projectName": "Vaquinha.MVC",
-      "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
-      "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -11020,13 +11009,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
-              "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
+            "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
             },
-            "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj": {
-              "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj"
+            "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Service\\Vaquinha.Service.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Service\\Vaquinha.Service.csproj"
             }
           }
         }
@@ -11039,7 +11027,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Gravity.Drivers.Mock": {
             "target": "Package",
@@ -11098,7 +11085,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -11107,7 +11094,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'OpenQA.Selenium.Winium 1.0.0.4' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "message": "Package 'OpenQA.Selenium.Winium 1.0.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "OpenQA.Selenium.Winium",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"

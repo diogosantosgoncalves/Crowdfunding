@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
         "projectName": "Vaquinha.Domain",
-        "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
-        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,7 +30,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -43,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
@@ -96,25 +93,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
         "projectName": "Vaquinha.MVC",
-        "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
-        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -127,13 +123,12 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
-                "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
+              "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
               },
-              "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj": {
-                "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj"
+              "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Service\\Vaquinha.Service.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Service\\Vaquinha.Service.csproj"
               }
             }
           }
@@ -146,7 +141,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Gravity.Drivers.Mock": {
               "target": "Package",
@@ -205,25 +199,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
         "projectName": "Vaquinha.Repository",
-        "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
-        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -236,10 +229,9 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
-                "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
+              "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
               }
             }
           }
@@ -252,7 +244,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -303,25 +294,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Service\\Vaquinha.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Service\\Vaquinha.Service.csproj",
         "projectName": "Vaquinha.Service",
-        "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj",
-        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Service\\Vaquinha.Service.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -334,10 +324,9 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj": {
-                "projectPath": "C:\\workspace\\vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj"
+              "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Crowdfunding\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj"
               }
             }
           }
@@ -350,7 +339,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -403,7 +391,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
