@@ -12,7 +12,7 @@ Aprender sobre testes de software. Foi realizado os testes de Unidade, Integraç
 
 #### ---------------------------------------------------------------------------------------------------------------
 
-## Projeto para solicitações de Alunos simples feito por Vitor Silva
+## Projeto para solicitações de Alunos simples feito por Diogo dos Santos
 A aplicação consiste em um cadastro de alunos, cadastro de cursos e solicitações
 
 Feito com EntityFramework e Teste de Software
